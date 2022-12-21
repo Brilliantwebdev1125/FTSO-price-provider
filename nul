@@ -1,2 +1,0 @@
-$ /Users/alen/Kingston/delo/abelium/flare/flare-price-provider/node_modules/.bin/typechain --target=web3-v1 --out-dir typechain-web3-v1 'artifacts/!(build-info)/**/+([a-zA-Z0-9_]).json'
-Successfully generated 6 typings!
